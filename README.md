@@ -6,6 +6,7 @@ Ricordate che in sede di orale vi chiederò di modificare il progetto.
 
 Aggiungere qui sotto il 
 
-Nome:
-Cognome:
-Matricola:
+Nome:  Mattia
+Cognome: Lattanzi
+Matricola: 300746
+Versione non definitiva del progetto.
